@@ -15,7 +15,7 @@ client.on("message", (message) => {
 
   message.content = message.content.substring(1).toLocaleLowerCase();
     //used to deal with messages
-    if(commands[message.content]){message.reply(configuration.commands[message.content]);}
+    if(configuration.commands[message.content]){message.reply(configuration.commands[message.content]);}
     //used to deal with commands
     if(message.content === "name"){message.reply("Your username is " + message.author.username);}
 
