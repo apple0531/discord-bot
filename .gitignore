@@ -12,5 +12,6 @@ Thumbs.db
 
 # Application specific files
 venv
+package-lock.json
 node_modules
 .sass-cache
