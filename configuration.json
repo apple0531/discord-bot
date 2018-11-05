@@ -1,0 +1,9 @@
+{
+  "token" : "TOKEN",
+  "prefix" : "!",
+  "commands": {
+    "ping": "Pong!",
+    "hello": "world",
+    "github": "github.com/tubbyyyy"
+  }
+}
