@@ -1,7 +1,7 @@
 {
   "name": "discord-bot",
   "version": "1.0.0",
-  "description": "dicord bot to help users with gathering information.",
+  "description": "discord bot to help users with gathering information.",
   "main": "bot.js",
   "scripts": { "dev": "nodemon bot.js" },
   "repository": { "type": "git", "url": "https://github.com/tubbyyyy/discord-bot.git" },
