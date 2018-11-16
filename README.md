@@ -43,6 +43,6 @@ These instructions will get you a copy of the project up and running on your loc
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Automatically restarts the bot when file changes in the directory are detected.
 
 ### License ###
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 - - - -
 _a project by [Gurvinder Singh](https://github.com/tubbyyyy)_
