@@ -1,7 +1,9 @@
 <img src="https://cdn-images-1.medium.com/max/2000/1*55023Q0DHGutevORRQh-pA.png" width=1000 height=300>
 
-[![npm version](https://badge.fury.io/js/discord.svg)](https://badge.fury.io/js/discord) [![npm version](https://badge.fury.io/js/nodemon.svg)](https://badge.fury.io/js/nodemon)
 ## Deploying a discord bot using node.js ##
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Node.js](https://img.shields.io/badge/Node-v6.11.3-blue.svg)](https://nodejs.org/) [![NPM](https://img.shields.io/badge/NPM-v6.4.1-blue.svg)](https://www.npmjs.com/) [![Discord.js](https://img.shields.io/badge/Discord.js-tested-brightgreen.svg)](https://discord.js.org/#/) [![Nodemon](https://img.shields.io/badge/Nodemon-tested-brightgreen.svg)](https://www.npmjs.com/package/nodemon)
+
 This is the default source code for a bare-bones discord server running on node.js. This code was written for the proposes of providing a basic template to allow simple plug & play usage and easy scaleability for adding multiple commands for routing requests. This code will be changed for various reasons including but not limited to adding/deleting files, modules, etc.
 
 * [Getting Started](#getting-started)
