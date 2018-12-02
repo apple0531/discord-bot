@@ -1,5 +1,6 @@
 <img src="https://cdn-images-1.medium.com/max/2000/1*55023Q0DHGutevORRQh-pA.png" width=1000 height=300>
 
+[![npm version](https://badge.fury.io/js/discord.svg)](https://badge.fury.io/js/discord) [![npm version](https://badge.fury.io/js/nodemon.svg)](https://badge.fury.io/js/nodemon)
 ## Deploying a discord bot using node.js ##
 This is the default source code for a bare-bones discord server running on node.js. This code was written for the proposes of providing a basic template to allow simple plug & play usage and easy scaleability for adding multiple commands for routing requests. This code will be changed for various reasons including but not limited to adding/deleting files, modules, etc.
 
